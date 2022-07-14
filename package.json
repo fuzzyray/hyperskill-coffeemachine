@@ -1,0 +1,15 @@
+{
+  "name": "hyperskill-coffeemachine",
+  "version": "1.0.0",
+  "description": "Javascript Coffee Machine project for JetBrains Academy",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Varner",
+  "license": "MIT",
+  "dependencies": {
+    "sync-input": "https://github.com/hyperskill/sync-input/archive/release.tar.gz"
+  }
+}
